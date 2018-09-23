@@ -6,9 +6,9 @@
   <br>
 </h1>
 
-<h4 align="center">Healthcare-Monitoring-Assistance</a>.</h4>
+<h4 align="center">Healthcare Monitoring Assistance using Internet of Things (IoT)</a>.</h4>
 
-Healthcare Monitoring Assistance using Internet of Things (IoT)
+
 
 
 Docx link   https://docs.google.com/document/d/1iszWxYjVA08GHJqu7BZ5rtV0NsUUj_37gEdtUk_RxLo/edit?usp=sharing
